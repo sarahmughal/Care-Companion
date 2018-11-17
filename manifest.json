@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "My Cool Extension",
+  "version": "1",
+  "author": "Jennifer John",
+  //"background": {
+  //"scripts": ["background.js"]
+  //},
+  "content_scripts": [
+  {
+    "matches": [
+      "https://*.google.com/*"
+    ],
+    "js": ["content.js"]
+  }
+]
+}
+
+// inspect element
+// search box class: "gLFyf gsfi"
+// j query get value by class name   .value
+// how to get value by class name from j query
