@@ -1,15 +1,19 @@
 body{
 	background-color: #c9fff2;
+	min-width: 50px; 
+  max-width: 100%;
 }
 
 h1 {
 	color: #515151;
 	font-size: 30px;
 	text-align: center;
+	font-family: "Lucida Console", Lucida, monospace;
 }
 
 h4{
 	text-align: center;
 	color: #515151;
 	font-size: 15px;
+	font-family: "Lucida Console", Lucida, monospace;
 }
