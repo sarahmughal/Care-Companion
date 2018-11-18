@@ -23,3 +23,5 @@ We learned how to make a google chrome extension which we weren’t aware of how
 
 ## What's next for Care Companion
 We hope that this chrome extension is implemented at schools as it can be the future for decreasing the onset of mental illnesses in the community of young teens. Our previous plan was to integrate a machine learning model to detect trends and patterns of a user’s searches, which we now hope to add in the future.
+
+# By Jennifer John, Shruti Janardhanan, and Sarah Mughal
