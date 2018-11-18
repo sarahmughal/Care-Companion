@@ -17,3 +17,6 @@ None of us had prior experience in web development so it took us a while to get 
 
 ## Accomplishments that we're proud of
 We were able to build our extension using JavaScript and figure out how to create a popup within the web browser. 
+
+## What we learned
+We learned how to make a google chrome extension which we weren’t aware of how to do beforehand. We had to look up many tutorials and refer to a wide variety of tutorials and articles online to do this as well as using the support from the awesome mentors!
