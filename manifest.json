@@ -18,11 +18,11 @@
     ],
     "js": ["content.js"]
   }
-    browser_action": {
+   /* browser_action": {
     "default_icon": "",
     "default_popup": "popup.html",
     "default_title": "Care Companion :)",
-  }
+  }*/
     /*"permissions": [
     "cookies",
     "http://*.google.com/"
