@@ -20,3 +20,6 @@ We were able to build our extension using JavaScript and figure out how to creat
 
 ## What we learned
 We learned how to make a google chrome extension which we weren’t aware of how to do beforehand. We had to look up many tutorials and refer to a wide variety of tutorials and articles online to do this as well as using the support from the awesome mentors!
+
+## What's next for Care Companion
+We hope that this chrome extension is implemented at schools as it can be the future for decreasing the onset of mental illnesses in the community of young teens. Our previous plan was to integrate a machine learning model to detect trends and patterns of a user’s searches, which we now hope to add in the future.
