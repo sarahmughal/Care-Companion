@@ -12,4 +12,5 @@ Care Companion is a Chrome extension that can be downloaded by anyone and can tr
 ## How we built it
 The main interface was built using Javascript while the front-end runs on HTML and CSS. The UI and logo were created in Sketch.
 
-
+## Challenges we ran into
+None of us had prior experience in web development so it took us a while to get down the basics and then build on that. We didn’t know if we could possibly use cookies to look at people’s search history over a long period of time, or look at their history from specific websites other than google search. Our original plan was to train a machine learning model to detect various signs over longer periods of time, but however we realized that that would take a long time and could not be completed in the span of 24 hours. Also many times, the extension did not run in the browser.
