@@ -21,6 +21,11 @@
     "default_popup": "popup.html",
     "default_title": "Care Companion :)",
   }
+    /*"permissions": [
+    "cookies",
+    "http://*.google.com/"
+    ],
+chrome.experimental.cookies.getAll(object details, function callback)*/
    
 ]
 }
