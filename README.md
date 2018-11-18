@@ -1,4 +1,4 @@
 # Care-Companion
-smhacks2project
+SM Hacks II project
 
 a chrome extension
