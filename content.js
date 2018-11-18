@@ -14,9 +14,9 @@ document.getElementById('tsf').addEventListener("submit", function(e) {
         	alert("Hi there! We just wanted to check in to make sure you're doing ok and just know that there are always people who care about you and want to help support you, reach out at 1-800-273-8255 or suicidepreventionlifeline.org/chat");
         }  else if (mVal.includes('no one cares')) {
        		alert("Hi! We wanted to make sure you are doing okay. If you are feeling low and need someone to talk to, you can call  you can call this hotline: 1 (800) 273-8255 or text “ANSWER” to 839863");
-        } else if (mval.includes('I'm worthless')){
+        } else if (mval.includes('I'm worthless'))	{
 	        alert("Hi! We wanted to make sure you are doing okay. If you are feeling low and need someone to talk to, you can call this hotline: 1 (800) 273-8255 or text “ANSWER” to 839863");
-         } else if (mval.includes('I want to drop out of school')){
+         } else if (mval.includes('I want to drop out of school'))	{
 		alert("Hi! We wanted to make sure you are doing okay. If you are feeling low, please call 1 (800) 273-8255 or text “ANSWER” to 839863");
         };
     });
