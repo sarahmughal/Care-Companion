@@ -1,1 +1,2 @@
-# smhacks2project
+# Care-Companion
+smhacks2project
