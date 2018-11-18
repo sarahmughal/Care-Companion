@@ -9,3 +9,7 @@ Seeing some of our closest peers suffer from mental illnesses, we discovered tha
 ## What it does
 Care Companion is a Chrome extension that can be downloaded by anyone and can track a user's real-time searches and search history. Thus, when triggering phrases regarding mental health are detected, a pop-up appears that include hotlines and resources an individual may need at that certain time. If an individual is going through a hard time, they may not seek immediate help and may often resort to the internet to find help. With this extension, we make it easier for immediate help before someone puts themself in danger.
 
+## How we built it
+The main interface was built using Javascript while the front-end runs on HTML and CSS. The UI and logo were created in Sketch.
+
+
