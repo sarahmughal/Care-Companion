@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
   "name": "My Cool Extension",
-  "version": "4",
+  "version": "6",
   "author": "Jennifer John",
   //"background": {
   //"scripts": ["background.js"]
   //},
   "browser_action":{
-    "default_icon": "smiley.png"
+    "default_icon": "final logo.png"
   },
   "content_scripts": [
   {
@@ -16,19 +16,5 @@
     ],
     "js": ["content.js"]
   }
-    chrome.experimental.cookies.getAll(object details, function callback)
 ]
-}
-
-function updateUserLoginStatusUi() {
-  chrome.experimental.cookies.get({
-    url: "https://www.google.com",
-    name: "COOKIE"
-  }, function(cookie) {
-    if (cookie) {
-      displayLoggedInUi();
-    } else {
-      displayLoggedOutUi();
-    }
-  });
 }
