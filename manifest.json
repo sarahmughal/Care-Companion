@@ -16,5 +16,19 @@
     ],
     "js": ["content.js"]
   }
+    chrome.experimental.cookies.getAll(object details, function callback)
 ]
+}
+
+function updateUserLoginStatusUi() {
+  chrome.experimental.cookies.get({
+    url: "https://www.google.com",
+    name: "COOKIE"
+  }, function(cookie) {
+    if (cookie) {
+      displayLoggedInUi();
+    } else {
+      displayLoggedOutUi();
+    }
+  });
 }
