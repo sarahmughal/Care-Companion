@@ -4,7 +4,7 @@ document.getElementById('tsf').addEventListener("submit", function(e) {
         console.log(mVal);
         if (mVal.includes('death')) {
         	alert('everything ok?');
-        } else {
-        	alert('lookin good!');
+        } else if (mval.includes('self-harm')) {
+        	alert('hello!');
         }
 });
